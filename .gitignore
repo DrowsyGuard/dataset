@@ -195,6 +195,7 @@ cython_debug/
 
 #  Ignore Dataset
 createml_data/
+landmarks/
 
 # Ignore Model
 Model/
